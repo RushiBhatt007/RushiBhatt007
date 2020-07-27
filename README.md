@@ -7,7 +7,6 @@ During summer of 2019, I was a Research Assistant at the University of New Bruns
 Apart from my academic endeavors, I enjoy working on personal projects, participate in hackathons, playing chess, and absolutely love having debates and discussions on AI and its impact on work, life, society and culture.
 
 You can find me at:
-
 * Personal Website: https://www.rushibhatt.ml/
 * LinkedIn: https://www.linkedin.com/in/rushi-y-bhatt/
 * Twitter: https://twitter.com/Rushi_Bhatt007
