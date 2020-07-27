@@ -8,11 +8,9 @@ Apart from my academic endeavors, I enjoy working on personal projects, particip
 
 You can find me at:
 
-Personal Website: https://www.rushibhatt.ml/
-
-LinkedIn: https://www.linkedin.com/in/rushi-y-bhatt/
-
-Twitter: https://twitter.com/Rushi_Bhatt007
+* Personal Website: https://www.rushibhatt.ml/
+* LinkedIn: https://www.linkedin.com/in/rushi-y-bhatt/
+* Twitter: https://twitter.com/Rushi_Bhatt007
 
 
 <!--
