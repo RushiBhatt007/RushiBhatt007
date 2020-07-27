@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-Hi! I am a recently graduated student from S. V. National Institute of Technology, Surat with a keen interest in Data Science, Neural Signal Processing, and applied Machine Learning.
+I am Rushi, a recently graduated student from S. V. National Institute of Technology, Surat with a keen interest in Data Science, Neural Signal Processing, and applied Machine Learning.
 
 During summer of 2019, I was a Research Assistant at the University of New Brunswick, Fredericton, Canada working with Dr. Erik Scheme on building Machine Learning and Signal Processing modules for Smart Assistive Technology (like instrumented canes, walkers, etc).
 
 Apart from my academic endeavors, I enjoy working on personal projects, participate in hackathons, playing chess, and absolutely love having debates and discussions on AI and its impact on work, life, society and culture.
 
 You can find me at:
+
 Personal Website: https://www.rushibhatt.ml/
+
 LinkedIn: https://www.linkedin.com/in/rushi-y-bhatt/
+
 Twitter: https://twitter.com/Rushi_Bhatt007
 
 
