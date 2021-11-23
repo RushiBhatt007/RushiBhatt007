@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Rushi, a recently graduated student from S. V. National Institute of Technology, Surat with a keen interest in Data Science, Neural Signal Processing, and applied Machine Learning.
+I am Rushi, a first-year MS in ECE student at UCLA with a keen interest in Data Science, Neural Signal Processing, and applied Machine Learning.
+
+Previously, I've worked at UnitedHealth Group as a Software Development Engineer. My primary work revolves around the development of Big Data technology, Healthcare Analytics, and Data Streaming services.
 
 During summer of 2019, I was a Research Assistant at the University of New Brunswick, Fredericton, Canada working with Dr. Erik Scheme on building Machine Learning and Signal Processing modules for Smart Assistive Technology (like instrumented canes, walkers, etc).
 
