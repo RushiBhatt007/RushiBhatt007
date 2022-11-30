@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-I am Rushi, a first-year MS in ECE student at UCLA with a keen interest in Data Science, Neural Signal Processing, and applied Machine Learning.
+I am Rushi, a second-year MS in ECE student at UCLA with a keen interest in Data Science, Neural Signal Processing, and applied Machine Learning.
 
-Previously, I've worked at UnitedHealth Group as a Software Development Engineer. My primary work revolves around the development of Big Data technology, Healthcare Analytics, and Data Streaming services.
+This summer I worked as a data science intern at Walmart, Sunnyvale on hierarchical contrastive learning for large language models. Previously, I've worked at UnitedHealth Group as a software engineer building big data systems, and data streaming services.
 
 During summer of 2019, I was a Research Assistant at the University of New Brunswick, Fredericton, Canada working with Dr. Erik Scheme on building Machine Learning and Signal Processing modules for Smart Assistive Technology (like instrumented canes, walkers, etc).
 
 Apart from my academic endeavors, I enjoy working on personal projects, participate in hackathons, playing chess, and absolutely love having debates and discussions on AI and its impact on work, life, society and culture.
 
 You can find me at:
-* Personal Website: https://www.rushibhatt.ml/
 * LinkedIn: https://www.linkedin.com/in/rushi-y-bhatt/
-* Twitter: https://twitter.com/Rushi_Bhatt007
+* Twitter: https://twitter.com/rybhatt27
 
 
 <!--
